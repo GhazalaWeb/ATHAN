@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.div1{
+    width:20%;
+    height:400px;
+    background-color: black;
+    color:white;
+    float:left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+
+
+.div2{
+    width:20%;
+    height:400px;
+    background-color: black;
+    color:white;
+    float:left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+.div3{
+    width:20%;
+    height:400px;
+    background-color: black;
+    color:white;
+    float:left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.div4{
+    width:20%;
+    height:400px;
+    background-color: black;
+    color:white;
+    float:left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+.div5{
+    width:20%;
+    height:400px;
+    background-color: black;
+    color:white;
+    float:left;
+    margin-left: 90px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.div6{
+    width:20%;
+    height:400px;
+    background-color:black;
+    color:white;
+    float:left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+.div7{
+    width:20%;
+    height:400px;
+    background-color:black;
+    color:white;
+    float:left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.div8{
+    width:20%;
+    height:400px;
+    background-color: black;
+    color:white;
+    float:left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding:60px;
+    border-radius:5%;
+    background-image: url('flora.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+mark.black {
+    background-color: black;
+    color: white;
+  }
+.btn-order{
+    width:100px;
+    height:40px;
+    background-color:black;
+    margin-left:40px;
+    margin-top: 20px;
+    color:white;
+    border-radius: 15%;
+}
